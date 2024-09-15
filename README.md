@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jorge Diaz</h1>
-<h3 align="center">A passionate frontend developer and a systems engineering student from Colombia</h3>
+<h3 align="center">A passionate backend developer and a systems engineering from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmdiaz23&label=Profile%20views&color=0e75b6&style=flat" alt="jmdiaz23" /> </p>
 
-- 🌱 I’m currently learning **React js, Django, Spring , MongoDb**
+- 🌱 I’m currently learning **Node js, Django, Spring , MongoDb**
 
 - 💬 Ask me about **java, python**
 
